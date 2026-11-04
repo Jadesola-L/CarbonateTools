@@ -22,4 +22,5 @@ per mole of carbonate formula units.
 \examples{
 calculate_co2_yield(1, 100.09)
 calculate_co2_yield(1, 114.95)
+
 }
