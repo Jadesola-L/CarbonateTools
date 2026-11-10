@@ -3,15 +3,15 @@ Type: Package
 Title: Title: Carbonate CO2 Yield Calculations
 Description: Calculates theoretical carbon dioxide yields from carbonate
     sample mass and molar mass. Includes an example carbonate dataset.
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Jadesola", "Lawal",
+      email = "lawalj@mcaster.ca",
       role = c("aut", "cre")
     )
   )
-License: GPL-3
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Config/roxygen2/version: 8.1.1
